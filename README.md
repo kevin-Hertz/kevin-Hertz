@@ -4,8 +4,9 @@ kevin-Hertz/kevin-Hertz
 
 - hi, im @kevin-Hertz;
   
-  devout follower of saint python, patron of programming. slightly familair with C++
-- handful of projects starting to rear their code-infused heads;
+  devout follower of saint python, patron of programming. slightly familair with C++, mostly work with HTML, JS & CSS tho.
+- handful of projects starting to rear their code-infused ugly heads; and
+- will mostly start uploading older projects soon, all the fancy stuff listed below r still in works
   
   face recognition, tracker, command-execution stuffs and what not [still taking time to check]
 
