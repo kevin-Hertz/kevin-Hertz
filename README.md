@@ -4,14 +4,14 @@ kevin-Hertz/kevin-Hertz
 
 - hi, im @kevin-Hertz;
   
-  devout follower of saint python, patron of programming. slightly familair with C++, mostly work with HTML, JS & CSS tho.
-- handful of projects starting to rear their code-infused ugly heads; and
-- will mostly start uploading older projects soon, all the fancy stuff listed below r still in works
+  experienced with python. slightly familair with C++, mostly work with HTML, JS & CSS tho.
+- handful of projects from hackathons and old pet-project spurs; and
+- will mostly start uploading older projects soon, all the fancy stuff listed below r still in works and/or delisted for vetting
   
   face recognition, tracker, command-execution stuffs and what not [still taking time to check]
 
 
-<! professional idiot, pls apologise schmitty code !>
+<! partially deprecated !>
 <!---
 kevin-Hertz/kevin-Hertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
